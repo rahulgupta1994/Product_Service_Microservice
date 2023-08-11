@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM openjdk:17-jdk
 
 #WORKDIR /usr/src/app
 WORKDIR C:/Users/rahul/product-service
