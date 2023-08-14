@@ -2,6 +2,7 @@ FROM openjdk:17-jdk
 
 #WORKDIR /usr/src/app
 WORKDIR C:/Users/rahul/product-service
+
 #/var/lib/docker/tmp/
 #COPY package.json ./
 #COPY. .
