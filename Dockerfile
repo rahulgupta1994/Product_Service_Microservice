@@ -1,11 +1,10 @@
 FROM openjdk:17-jdk
 
-#WORKDIR /usr/src/app
-RUN mkdir C:/Users/rahul/product-service
-ADD . C:/Users/rahul/product-service
+#RUN mkdir C:/Users/rahul/product-service
+#ADD . C:/Users/rahul/product-service
 WORKDIR C:/Users/rahul/product-service
 
-/var/lib/docker/tmp/
+#/var/lib/docker/tmp/
 #COPY package.json ./
 #COPY. .
 
