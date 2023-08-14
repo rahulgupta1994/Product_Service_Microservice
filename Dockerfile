@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk
+FROM openjdk:17
 
 #RUN mkdir C:/Users/rahul/product-service
 #ADD . C:/Users/rahul/product-service
